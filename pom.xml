@@ -10,9 +10,9 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>ff-collect</module>
-        <module>ff-consumer</module>
-        <module>ff-producer</module>
+        <module>ff-common</module>
+        <module>ff-server</module>
+        <module>ff-client</module>
     </modules>
 
 
